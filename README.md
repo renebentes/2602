@@ -9,6 +9,10 @@ Você pode encontrar os originais em:
 - [balta.io](https://balta.io/cursos/uma-visao-geral-sobre-ia-generativa)
 - [GitHub](https://github.com/balta-io/2602)
 
+## Índice
+
+- [O que é Inteligência Artificial?](docs/o-que-e-ia.md)
+
 ## Tecnologias Utilizadas
 
 - [Visual Studio Code](https://code.visualstudio.com)
