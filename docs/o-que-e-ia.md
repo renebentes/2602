@@ -10,3 +10,6 @@ Capacidade de máquinas de executarem tarefas que normalmente exigem inteligênc
 
 - Utiliza Redes Neurais para identificar padrões complexos;
 - Redes Neurais são pequenos nós funcionais interligados que funcionam como neurônios artificiais.
+- Artificial Neural Network - ANN;
+- Condicionais encadeadas;
+- Processo de implementação e execução muito caro e extenso.
