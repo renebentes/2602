@@ -36,4 +36,47 @@ Capacidade de máquinas de executarem tarefas que normalmente exigem inteligênc
 
 - Baseado no processamento de linguagem natural (Natural Language Processing);
   - Conversa natural entre humano e máquina, "oi, tudo bem?"
+  - A mensagem é enviada ao modelo (LLM), o modelo converte em instruções para a máquina, resultado é devolvido ao modelo, que converte em linguagem natural. É um processo custoso
 - Trabalha com janelas de contextos (memória)
+
+## Transformers
+
+- Preveem a próxima palavra (token)
+  - Generative Pre-trained Transformer (GPT)
+  - Sonnet
+  - Gemini...
+- Cada palavra é quebrada em tokens e passa pela rede neural com base na janela de contexto (chat)
+- Modelos treinados com base em todo o conteúdo de domínio público na internet, o que pode não estar atualizado
+
+## Retrieval Augmented Generator (RAG)
+
+- Modelos não compreendem o que está dizendo, quando não tem informação tende a alucinar, inventar
+- Serve para aumentar a capacidade do modelo
+- Um conjunto de dados passam por um processo de **Embedding**, transformando-os em vetores de probabilidades
+
+## Model Context Protocol (MCP)
+
+- Definição de como IA consegue interagir com outras IAs, modelos, aplicações
+- Possuem **Tools** que permitem essas interações
+- Toda IA é **Estocástica**, um prompt pode gerar diferentes resultados
+
+## Agents
+
+- Programa autônomo que sabe onde está e sabe o que pode fazer
+- Podem ser criados através de prompts
+- Em um fluxo podem haver vários agentes que interagem entre si
+- Precisam de contexto para operar corretamente
+
+## Skills
+
+- Habilidades que Agents podem exercer
+- Independentes de Agents
+- São passivas
+- Podem ser específicas ou globais
+- Prompts bem escritos
+
+## Commands
+
+- Análogo a um **Skill**
+- Podem ser invocados a partir de um prompt
+- Reativo, necessitam ser invocados
