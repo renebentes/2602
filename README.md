@@ -12,6 +12,9 @@ Você pode encontrar os originais em:
 ## Índice
 
 - [O que é Inteligência Artificial?](docs/o-que-e-ia.md)
+- [Machine Learning](docs/o-que-e-ia.md#machine-learning---aprendizado-de-máquina)
+- [Deep Learning](docs/o-que-e-ia.md#deep-learning---aprendizado-profundo)
+- [Generative AI](docs/o-que-e-ia.md#generative-ai)
 
 ## Tecnologias Utilizadas
 
