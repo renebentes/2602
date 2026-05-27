@@ -11,16 +11,16 @@ Você pode encontrar os originais em:
 
 ## Índice
 
-- [O que é Inteligência Artificial?](docs/o-que-e-ia.md)
-- [Machine Learning](docs/o-que-e-ia.md#machine-learning---aprendizado-de-máquina)
-- [Deep Learning](docs/o-que-e-ia.md#deep-learning---aprendizado-profundo)
-- [Generative AI](docs/o-que-e-ia.md#generative-ai)
-- [GPT](docs/o-que-e-ia.md#transformers)
-- [RAG](docs/o-que-e-ia.md#retrieval-augmented-generator-rag)
-- [MCP](docs/o-que-e-ia.md#model-context-protocol-mcp)
-- [Agents](docs/o-que-e-ia.md#agents)
-- [Skills](docs/o-que-e-ia.md#skills)
-- [Command](docs/o-que-e-ia.md#commands)
+- [O que é Inteligência Artificial?](docs/overview.md)
+- [Machine Learning](docs/overview.md#machine-learning---aprendizado-de-máquina)
+- [Deep Learning](docs/overview.md#deep-learning---aprendizado-profundo)
+- [Generative AI](docs/overview.md#generative-ai)
+- [GPT](docs/overview.md#transformers)
+- [RAG](docs/overview.md#retrieval-augmented-generator-rag)
+- [MCP](docs/overview.md#model-context-protocol-mcp)
+- [Agents](docs/overview.md#agents)
+- [Skills](docs/overview.md#skills)
+- [Command](docs/overview.md#commands)
 
 ## Tecnologias Utilizadas
 
