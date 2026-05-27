@@ -15,6 +15,12 @@ Você pode encontrar os originais em:
 - [Machine Learning](docs/o-que-e-ia.md#machine-learning---aprendizado-de-máquina)
 - [Deep Learning](docs/o-que-e-ia.md#deep-learning---aprendizado-profundo)
 - [Generative AI](docs/o-que-e-ia.md#generative-ai)
+- [GPT](docs/o-que-e-ia.md#transformers)
+- [RAG](docs/o-que-e-ia.md#retrieval-augmented-generator-rag)
+- [MCP](docs/o-que-e-ia.md#model-context-protocol-mcp)
+- [Agents](docs/o-que-e-ia.md#agents)
+- [Skills](docs/o-que-e-ia.md#skills)
+- [Command](docs/o-que-e-ia.md#commands)
 
 ## Tecnologias Utilizadas
 
